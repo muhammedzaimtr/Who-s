@@ -1,0 +1,99 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
+/* Muhammed zaim*/
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	background-color: #fff;
+	padding: 10px 10px 0px 10px;
+	margin: 0px;
+	color:#222;
+}
+
+input, select {
+	font: 14px "Verdana", sans-serif;
+	padding: 5px;
+}
+
+input[type=text], input[type=file] {
+	border: 1px solid #ccc;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: #fff;
+	padding: 6px;
+	width: 100%; 
+}/* Muhammed zaim*/
+
+h1, h2, h3, h4, p, pre {
+	padding: 0px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 150%;
+}
+
+form {
+	padding: 10px 10px 0px 10px;
+	margin: 0px 0px 10px 0px;
+	background-color: #fcfcfc;
+	border: 1px solid #ccc;
+}
+
+pre {
+	font: 14px "Verdana", sans-serif;
+	padding: 10px;
+	margin: 0px 0px 10px 0px;
+	background-color: #fcfcfc;
+	border: 1px solid #ccc;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+a {
+	color: #c00;
+	text-decoration:none;
+}/* Muhammed zaim*/
+
+a:hover {
+	color: #999;
+	text-decoration:none;
+}
+
+.data {
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 10px 0px;
+}
+
+.data td {
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+}
+
+.data tr:nth-child(odd)
+{
+	background: #fcfcfc;
+}
+
+.short {
+	text-align: center;
+	width: 1%;
+	min-width: 40px;
+	white-space: nowrap;
+}
+
+.clear {
+	font: 1px Verdana;
+	height: 0px;
+	overflow: hidden;
+	clear: both;/* Muhammed zaim*/
+}
+
+.error {
+	color: #c00;
+}
+
