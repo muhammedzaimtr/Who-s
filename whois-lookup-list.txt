@@ -1,0 +1,5 @@
+com = whois.verisign-grs.com, whois.crsnic.net
+net = whois.verisign-grs.com, whois.crsnic.net
+org = whois.pir.org, whois.publicinterestregistry.net
+co.uk = whois.nic.uk
+mobi = whois.dotmobiregistry.net
