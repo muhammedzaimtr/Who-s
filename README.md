@@ -1,2 +1,2 @@
-# Who-s
+# Whois
 Alan Adı Kimin :)
